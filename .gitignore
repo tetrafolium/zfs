@@ -59,7 +59,7 @@
 !RELEASES.md
 !TEST
 !zfs.release.in
-
+!rocro.yml
 
 #
 # Normal rules
